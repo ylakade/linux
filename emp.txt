@@ -1,0 +1,5 @@
+100 Thomas  Sales       $5000   
+200 Jhon    Training    $4000
+300 Sachin  Technology  $6000
+400 Kiran   Analyst     $100000
+500 Yogesh  Analyst     $100000
